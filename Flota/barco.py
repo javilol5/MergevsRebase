@@ -17,4 +17,4 @@ class Barco:
         print(f"{self.nombre} ({self.golpes_recibidos}/{self.longitud}) "
               f"=> {'HUNDIDO' if self.esta_hundido() else 'A FLOTE'}")
 
-#Modificacion en barco.py
+#Modificacion en Barco :)
