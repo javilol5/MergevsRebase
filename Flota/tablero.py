@@ -16,3 +16,5 @@ class Tablero:
         print("\nTABLERO:")
         for fila in self.casillas:
             print(" ".join(str(casilla) for casilla in fila))
+
+#Modificacion en Tablero
